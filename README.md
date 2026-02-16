@@ -22,6 +22,14 @@ Ideal for personal use or managing a limited number of servers.
 
 ---
 
+
+## Quick Install
+
+Run this command on Ubuntu:
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/zahraei/private-subscription-manager/main/install.sh)
+
 ## Features
 
 - HTTPS support
@@ -76,9 +84,3 @@ Removes the service, files, and CLI command.
 
 ---
 
-## Quick Install
-
-Run this command on Ubuntu:
-
-```bash
-bash <(curl -s https://raw.githubusercontent.com/zahraei/private-subscription-manager/main/install.sh)
