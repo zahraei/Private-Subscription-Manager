@@ -5,7 +5,7 @@
 # ======================================
 
 REPO_URL="https://github.com/zahraei/private-subscription-manager.git"
-INSTALL_DIR="/root/private-subscription-manager"
+INSTALL_DIR="/root/Private-Subscription-Manager"
 
 echo ""
 echo "=========================================="
