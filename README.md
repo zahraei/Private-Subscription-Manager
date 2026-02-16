@@ -1,8 +1,6 @@
 # Private-Subscription-Manager
 Private Subscription Manager is a secure Python-based tool that allows you to manage multiple subscription files
-# 📄 README_EN.md
-
-```markdown
+# 📄 README.md
 # Private Subscription Manager (PSM)
 
 A lightweight HTTPS subscription management tool for VLESS/Vmess configs.
