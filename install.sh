@@ -4,7 +4,7 @@
 # Private Subscription Manager Installer
 # ======================================
 
-REPO_URL="https://github.com/YOUR_USERNAME/private-subscription-manager.git"
+REPO_URL="https://github.com/zahraei/private-subscription-manager.git"
 INSTALL_DIR="/root/private-subscription-manager"
 
 echo ""
