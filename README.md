@@ -29,7 +29,7 @@ Run this command on Ubuntu:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/zahraei/private-subscription-manager/main/install.sh)
-`
+---
 
 ## Features
 
