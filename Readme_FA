@@ -16,7 +16,9 @@ Private Subscription Manager یک ابزار امن مبتنی بر پایتون
 
 #نصب سریع (Quick Install)
 این دستور را روی اوبونتو اجرا کنید:
-
+```bash
+bash <(curl -s https://raw.githubusercontent.com/zahraei/private-subscription-manager/main/install.sh)
+```
 
 #ویژگی‌ها
 - پشتیبانی از HTTPS
